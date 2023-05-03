@@ -36,3 +36,4 @@ set_registry_creds.sh
 .gitconfig
 
 .pythonhistory
+.databricks
